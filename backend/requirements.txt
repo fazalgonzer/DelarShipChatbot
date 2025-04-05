@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sse-starlette
+pydantic
+python-dotenv
+httpx
+asyncio
+langchain-groq
+langchain
+langchain-core
