@@ -10,7 +10,7 @@ The test evaluates your ability to:
 3. Structure a maintainable backend API
 4. Work with the provided frontend implementation
 
-## Requirements
+
 
 ## Getting Started
 
